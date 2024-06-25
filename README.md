@@ -12,7 +12,7 @@ This project leverages Python and OpenCV to provide a touch-free way to control 
 
 1. **Clone the Repository :**
    ```bash
-   git clone https://github.com/Mrigyank-Roy/Volume-Control-by-Hand-Tracking-System.git
+   git https://github.com/Mrigyank-Roy/Gesture-Based-Volume-Control.git
 
 2. **Install Libraries :**
    ```bash
