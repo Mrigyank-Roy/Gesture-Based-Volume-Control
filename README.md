@@ -1,4 +1,4 @@
-# Volume Control by Hand Tracking System
+# Gesture-Based Volume Control
 
 This project leverages Python and OpenCV to provide a touch-free way to control the volume of your system through hand gestures. By using real-time hand tracking, the system can detect specific gestures to adjust the volume, offering an intuitive and interactive user experience.
 
